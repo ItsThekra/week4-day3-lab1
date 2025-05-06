@@ -39,6 +39,9 @@ saudiaAirlines.bookFlight("اليابان");
 // saudiaAirlines.addDestination("باريس");
 saudiaAirlines.addDestination("اليابان");
 console.log(saudiaAirlines)
+saudiaAirlines.getSummary("السعودية")
+
+
 
   
 
