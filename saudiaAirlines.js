@@ -42,6 +42,14 @@ console.log(saudiaAirlines)
 saudiaAirlines.getSummary("السعودية")
 
 
+// Part Two
+function names(fname,sname){
+  return fname + sname;
+}
+console.log('thekra', 'aljagthmi');
+
+
+
 
   
 
